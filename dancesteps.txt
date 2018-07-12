@@ -1,0 +1,5 @@
+links
+rechts
+geradeaus
+hoch
+runter
