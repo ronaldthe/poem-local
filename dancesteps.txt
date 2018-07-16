@@ -1,7 +1,9 @@
 links
 rechts
 geradeaus
+rüber
 hoch
 runter
 
 und noch eine Zeile
+und wieder eine Zeile, diesmal online.
